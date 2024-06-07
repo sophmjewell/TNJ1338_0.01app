@@ -2,7 +2,7 @@
 
 ---
 
-This directory contains JWST NIRCam and HST ACS photometry of a 0.2205 square acrsecond area of sky around the radio galaxy TN J1338-1942, resampled to the spatial resolution of NIRSpec IFU observations. The images are provided in fits format.
+This directory contains JWST NIRCam and HST ACS photometry of a 0.2205 square acrsecond area of sky around the radio galaxy TN J1338-1942, resampled to the spatial resolution of NIRSpec IFU observations. This allows pixel-wise comparisons between the photometry and spatially-resolved spectroscopy, as in [Jewell et. al. (in prep.)](https://maze.toys/mazes/medium/daily/)  
 
 The observations include the following filters:
 * JWST F150W
